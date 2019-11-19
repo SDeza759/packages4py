@@ -1,0 +1,9 @@
+sphinx==1.6.3
+numpy
+matplotlib
+pillow
+sphinx-gallery
+numpydoc
+pandas
+lz4
+distributed
